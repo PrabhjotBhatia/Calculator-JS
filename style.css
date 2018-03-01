@@ -1,0 +1,15 @@
+html {
+    text-align: center;
+
+}
+
+body {
+    background-color: lightgray;
+}
+
+button {
+    /* border: 3px solid black !important; */
+    cursor: pointer;
+    outline: none;
+    
+}
